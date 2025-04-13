@@ -1,3 +1,15 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+redirect_from:
+  - /articles
+---
+
+{% include base_path %}
+
+
 ### On photonic quantum computing and quantum machine learning
 
 A. Salavrakos, N. Maring, P.-E. Emeriau, and S. Mansfield. [Photon-native quantum algorithms](https://iopscience.iop.org/article/10.1088/2633-4356/adc531), *Mater. Quantum. Technol.* 5 023001 (2025)
