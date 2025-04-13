@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : ""
+title                    : "Alexia Salavrakos"
 title_separator          : "-"
 name                     : &name "Alexia Salavrakos"
 description              : &description ""
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "https://bsky.app/profile/alexiasalavrakos.bsky.social" # Replace this with you Bluesky username
+  bluesky          : "alexiasalavrakos.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
