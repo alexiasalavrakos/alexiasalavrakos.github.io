@@ -14,7 +14,7 @@ redirect_from:
 - **Contributed talk** on “An error-mitigated photonic quantum circuit Born machine”. *Quantum Matter conference* in Grenoble, France (20/05 - 23/05/2025)
 - **Lecture** on “Quantum machine learning on photonic platforms”. *Winter School on Quantum Machine Learning* in Trento, Italy (09/12 - 13/12/2024)
 - **Contributed talk** on “SPOQC: a Spin-Optical Quantum Computing Architecture”. *Quantum Matter conference* in San Sebastián, Spain (07/05 - 10/05/2024)
-- **Lectures** on “Photonic Circuits I & II” and “Photonic circuits with Perceval”. *Spring School on Near-Term Quantum Computing* in Benasque, Spain (14/04 - 27/04/2024)
+- **Lectures** on “Photonic Circuits I & II” and “Photonic circuits with Perceval”. *Spring School on Near-Term Quantum Computing in Benasque*, Spain (14/04 - 27/04/2024)
 - **Lecture** on “Discovering discrete variable photonic quantum computing with Perceval” and invited talk on “A versatile single-photon-based quantum computing platform”. *ICFO Spring School on Open-Source Tools for Quantum Science and Technology* in Castelldefels, Spain (18/03 - 21/03/2024)
 - **Contributed talk** on “Variational quantum algorithms implemented on a general-purpose single-photon-based quantum computing platform”. *Quantum Techniques in Machine Learning (QTML) conference* in Geneva, Switzerland (19/11 - 24/11/2023)
 - **Lecture** on “Apprentissage automatique et calcul quantique”. *Alsace Tech conference cycle on AI* in Strasbourg, France (15/12/2022)
