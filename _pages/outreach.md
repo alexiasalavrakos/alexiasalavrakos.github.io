@@ -7,7 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-I have been a volunteer at [Codewomen](https://migracode.org/codewomen/) since July 2024. It is a community built for women by women in the world of tech.
+I have been a volunteer at [Codewomen](https://migracode.org/codewomen/) since July 2024. 
+
+Codewomen is a community built for women by women in the world of tech.
 
 **Past workshops:**
 - SQL workshop (04/12/2024)
