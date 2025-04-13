@@ -17,5 +17,5 @@ I was in the organising committee of the [YQIS conference](https://www.yqisconfe
 
 *Research interests: quantum foundations, Bell nonlocality, photonic quantum computing, quantum algorithms, quantum and classical machine learning.*
 
-Complete CV [here](./cv.pdf).
+Complete CV [here](./cv_2025.pdf).
 
