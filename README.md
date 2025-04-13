@@ -1,89 +1,76 @@
-# Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
+## Introduction
+I am a researcher currently working at (Quandela)[https://www.quandela.com/] on photonic quantum computing and quantum machine learning.
 
-![Academic Pages template example](images/homepage.png "Academic Pages template example")
+I obtained my PhD at ICFO, Barcelona, in the group of Antonio Acín, on the topic of (Bell inequalities and device-independent protocols)[https://upcommons.upc.edu/handle/2117/131434].
 
-# Getting Started
+I was in the organising committee of the (YQIS conference)[https://www.yqisconference.org/] in Barcelona in 2016, and I am currently in the YQIS steering committee (2023-present).
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+*Research interests: quantum foundations, Bell nonlocality, photonic quantum computing, quantum algorithms, quantum and classical machine learning.*
 
-See more info at https://academicpages.github.io/
+Please find my CV here.
 
-## Running locally
 
-When you are initially working on your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
+## Publications
 
-1. Clone the repository and made updates as detailed above.
-1. Make sure you have ruby-dev, bundler, and nodejs installed
-    
-    On most Linux distribution and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
-    ```bash
-    sudo apt install ruby-dev ruby-bundler nodejs
-    ```
-    If you see error `Unable to locate package ruby-bundler`, `Unable to locate package nodejs `, run the following:
-    ```bash
-    sudo apt update && sudo apt upgrade -y
-    ```
-    then try run `sudo apt install ruby-dev ruby-bundler nodejs` again.
+### On photonic quantum computing and quantum machine learning
 
-    On MacOS the commands are:
-    ```bash
-    brew install ruby
-    brew install node
-    gem install bundler
-    ```
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
+A. Salavrakos, N. Maring, P.-E. Emeriau, and S. Mansfield. (Photon-native quantum algorithms)[https://iopscience.iop.org/article/10.1088/2633-4356/adc531], *Mater. Quantum. Technol.* 5 023001 (2025)
 
-    If you see file permission error like `Fetching bundler-2.6.3.gem ERROR:  While executing gem (Gem::FilePermissionError) You don't have write permissions for the /var/lib/gems/3.2.0 directory.` or `Bundler::PermissionError: There was an error while trying to write to /usr/local/bin.`
-    Install Gems Locally (Recommended):
-    ```bash
-    bundle config set --local path 'vendor/bundle'
-    ```
-    then try run `bundle install` again. If succeeded, you should see a folder called `vendor` and open `.gitignore` then add `vendor` inside it.
+A. Salavrakos, T. Sedrakyan, J. Mills, S. Mansfield, and R. Mezher. (Error-mitigated photonic quantum circuit Born machine)[https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.L030401], *Phys. Rev. A* 111, L030401 (2025)
 
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
-    You may also try `bundle exec jekyll serve -l -H localhost` to ensure jekyll to use specific dependencies on your own local machine.
+T. Sedrakyan and A. Salavrakos. (Photonic quantum generative adversarial networks for classical data)[https://doi.org/10.1364/OPTICAQ.530346], *Optica Quantum* 2(6), 458-467 (2024)
 
-If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
+G.de Gliniasty, P. Hilaire, P.-E. Emeriau, S. C. Wein, A. Salavrakos, and S. Mansfield. (A Spin-Optical Quantum Computing Architecture)[https://quantum-journal.org/papers/q-2024-07-24-1423/], *Quantum* 8, 1423 (2024)
 
-## Using Docker
+N. Maring, A. Fyrillas, M. Pont, E. Ivanov, P. Stepanov, N. Margaria, W. Hease, A. Pishchagin, T. H. Au, S. Boissier, E. Bertasi, A. Baert, M. Valdivia, M. Billard, O. Acar, A. Brieussel, R. Mezher, S. C. Wein, A. Salavrakos, P. Sinnott, D. A. Fioretto, P.-E. Emeriau, N. Belabas, S. Mansfield, P. Senellart, J. Senellart, and N. Somaschi. (A versatile single-photon-based quantum computing platform)[https://www.nature.com/articles/s41566-024-01403-4], *Nat. Photon.* 18, 603-609 (2024)
 
-Working from a different OS, or just want to avoid installing dependencies? You can use the provided `Dockerfile` to build a container that will run the site for you if you have [Docker](https://www.docker.com/) installed.
 
-You can build and execute the container by running the following command in the repository:
+### On Bell nonlocality and device-independent protocols
 
-```bash
-docker compose up
-```
+E. Woodhead, J. Kaniewski, B. Bourdoncle, A. Salavrakos, J. Bowles, A. Acín, and R. Augusiak. (Maximal randomness from partially entangled states)[https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.042028], *Phys. Rev. Research* 2, 042028 (2020)
 
-You should now be able to access the website from `localhost:4000`.
+J. Bowles, F. Baccari, A. Salavrakos. (Bounding sets of sequential quantum correlations and device-independent randomness certification)[https://quantum-journal.org/papers/q-2020-10-19-344/], *Quantum* 4, 344 (2020)
 
-# Maintenance
+R. Augusiak, A. Salavrakos, J. Tura, and A. Acín. (Bell inequalities tailored to the Greenberger-Horne-Zeilinger states of arbitrary local dimension)[https://iopscience.iop.org/article/10.1088/1367-2630/ab4d9f], *New Journal of Physics* 21, 113001 (2019)
 
-Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
+J.Kaniewski, I. Šupić, J. Tura, F. Baccari, A. Salavrakos, and R. Augusiak. (Maximal nonlocality from maximal entanglement and mutually unbiased bases, and self-testing of two-qutrit quantum systems)[https://quantum-journal.org/papers/q-2019-10-24-198/], *Quantum* 3, 198 (2019)
 
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
+J. Wang, S. Paesani, Y. Ding, R. Santagati, P. Skrzypczyk, A. Salavrakos, J. Tura, R. Augusiak, L. Mančinska, D. Bacco, D. Bonneau, J. W. Silverstone, Q. Gong, A. Acín, K. Rottwitt, L. K. Oxenløwe, J. L. O’Brien, A. Laing, and M. G. Thompson. (Multidimensional Quantum Entanglement with Large-scale Integrated Optics)[https://www.science.org/doi/10.1126/science.aar7053], *Science* 360, 285-291 (2018)
 
-## Bugfixes and enhancements
+A. Salavrakos, R. Augusiak, J. Tura, P. Wittek, A. Acín, and S. Pironio. (Bell inequalities tailored to maximally entangled states)[https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.040402], *Physical Review Letters* 119, 040402 (2017)
 
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
+I. Šupić, R. Augusiak, A. Salavrakos, and A. Acín. (Self-testing protocols based on the chained Bell inequalities)[https://iopscience.iop.org/article/10.1088/1367-2630/18/3/035013], *New Journal of Physics* 18, 035013 (2016)
 
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
 
----
-<div align="center">
-    
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
-[![GitHub contributors](https://img.shields.io/github/contributors/academicpages/academicpages.github.io.svg)](https://github.com/academicpages/academicpages.github.io/graphs/contributors)
-[![GitHub release](https://img.shields.io/github/v/release/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue)](https://github.com/academicpages/academicpages.github.io/blob/master/LICENSE)
+### Others
 
-[![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
-[![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
-</div>
+O. Van Hoey, A. Salavrakos, A. Marques, A. Nagao, R. Willems, F. Vanhavere, V. Cauwels, and L.  F. Nascimento. (Radiation dosimetry properties of smartphone CMOS sensors)[https://doi.org/10.1093/rpd/ncv352], *Radiation Protection Dosimetry* 168, 314-321 (2016)
+
+
+## Conferences - talks and lectures
+
+- Contributed talk on “An error-mitigated photonic quantum circuit Born machine”. *Quantum Matter conference* in Grenoble, France (20/05 - 23/05/2025)
+- Lecture on “Quantum machine learning on photonic platforms”. *Winter School on Quantum Machine Learning* in Trento, Italy (09/12 - 13/12/2024)
+- Contributed talk on “SPOQC: a Spin-Optical Quantum Computing Architecture”. *Quantum Matter conference* in San Sebastián, Spain (07/05 - 10/05/2024)
+- Lectures on “Photonic Circuits I & II” and “Photonic circuits with Perceval”. *Spring School on Near-Term Quantum Computing* in Benasque, Spain (14/04 - 27/04/2024)
+- Lecture on “Discovering discrete variable photonic quantum computing with Perceval” and invited talk on “A versatile single-photon-based quantum computing platform”. *ICFO Spring School on Open-Source Tools for Quantum Science and Technology* in Castelldefels, Spain (18/03 - 21/03/2024)
+- Contributed talk on “Variational quantum algorithms implemented on a general-purpose single-photon-based quantum computing platform”. *Quantum Techniques in Machine Learning (QTML) conference* in Geneva, Switzerland (19/11 - 24/11/2023)
+- Lecture on “Apprentissage automatique et calcul quantique”. *Alsace Tech conference cycle on AI* in Strasbourg, France (15/12/2022)
+- Contributed talk on “Certifying global randomness from partially entangled two-qubit states”. *Young Quantum Information Scientists (YQIS) conference* in Erlangen, Germany (03/10 - 06/10/2017)
+- Contributed talk on “Self-testing protocols based on the chained Bell inequalities” *4th UAB-ICFO-UB Winter School on Quantum Information* in Setcases, Spain (01/03 - 03/03/2017)
+- "Contributed talk on “Bell inequalities for maximally entangled states”. *Colloquium on Quantum Information, Foundations and Applications (IQFA)* in Paris, France (16/11 - 18/11/2016)
+- Contributed talk on “Novel Tsirelson-like bounds”. *3rd UAB-ICFO-UB Winter School on Quantum Information* in Setcases, Spain (02/03 - 04/03/2015)
+- Contributed talk on “Can we predict everything?” *3rd Jornada d’Investigadors Predoctorals Interdisciplinaria* in Barcelona, Spain (05/02/2015)
+
+
+
+## Outreach 
+
+I have been a volunteer at (Codewomen)[https://migracode.org/codewomen/] since July 2024. It is a community built for women by women in the world of tech.
+
+**Past workshops:**
+- SQL workshop (04/12/2024)
+- Mastering SQL fundamentals for all levels (12/02/2025 and 26/02/2025) 
+
+**Upcoming workshops:**
+- Build your own neural network (28 May 2025)
