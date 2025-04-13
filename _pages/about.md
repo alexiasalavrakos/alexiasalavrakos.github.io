@@ -12,7 +12,7 @@ I am a researcher currently working at [Quandela](https://www.quandela.com/) on 
 
 I obtained my PhD at ICFO, Barcelona, in the group of Antonio Acín, on the topic of [Bell inequalities and device-independent protocols](https://upcommons.upc.edu/handle/2117/131434).
 
-After my PhD and before joining Quandela, I worked as a datascientist in fintech for 3 years where I completed two long-term machine-learning based projects on fraud detection and payment optimisation.
+After my PhD and before joining Quandela, I worked as a data scientist in fintech for 3 years where I completed two long-term projects on fraud detection and payment optimisation ML models.
 
 I was in the organising committee of the [YQIS conference](https://www.yqisconference.org/) in Barcelona in 2016, and I am currently in the YQIS steering committee (2023-present).
 
