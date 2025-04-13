@@ -84,4 +84,4 @@ I have been a volunteer at [Codewomen](https://migracode.org/codewomen/) since J
 - Mastering SQL fundamentals for all levels (12/02/2025 and 26/02/2025) 
 
 **Upcoming workshops:**
-- Build your own neural network (28 May 2025)
+- Build your own neural network (28/05/2025)
