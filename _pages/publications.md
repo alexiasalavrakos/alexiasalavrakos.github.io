@@ -12,6 +12,8 @@ redirect_from:
 
 ### On photonic quantum computing and quantum machine learning
 
+C. Notton, V. Apostolou, A. Senellart, A. Walsh, D. Wang, Y. Xie, S. Yang, I. Mejdoub, O. Zouhry, K.-C. Chen, C.-Y. Liu, A. Sharma, E. Y. Balaji, S. P. Pawar, L. Le Frioux, V. Macheret, A. Radet, V. Deumier, A. K. Gupta, G. Intoccia, D. J. Kenne, C. Marullo, G. Massafra, N. Reinaldet, V. Schiano, D. Kolesnyk, Y. Vodovozova, R. Mezher, P.-E. Emeriau, A. Salavrakos, and J. Senellart. [Establishing Baselines for Photonic Quantum Machine Learning: Insights from an Open, Collaborative Initiative](https://arxiv.org/abs/2510.25839), *arXiv:2510.25839 [quant-ph]* (2025)
+
 A. Salavrakos, N. Maring, P.-E. Emeriau, and S. Mansfield. [Photon-native quantum algorithms](https://iopscience.iop.org/article/10.1088/2633-4356/adc531), *Mater. Quantum. Technol.* 5 023001 (2025)
 
 A. Salavrakos, T. Sedrakyan, J. Mills, S. Mansfield, and R. Mezher. [Error-mitigated photonic quantum circuit Born machine](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.L030401), *Phys. Rev. A* 111, L030401 (2025)
