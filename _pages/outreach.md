@@ -17,4 +17,4 @@ Codewomen is a community built for women by women in the world of tech.
 - Build your first neural network with Pytorch (28/05/2025)
 
 **Upcoming workshops:**
-
+- Construye tu primera red neuronal con PyTorch @MWC Talent Arena (04/03/2026)
