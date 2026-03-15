@@ -12,6 +12,8 @@ redirect_from:
 
 ### On photonic quantum computing and quantum machine learning
 
+F. Gottlieb, R. Mezher, B. Ventura, S. Mansfield, and A. Salavrakos. [Efficient training of photonic quantum generative models](https://arxiv.org/abs/2603.08793), *arXiv:2603.08793 [quant-ph]* (2026)
+
 C. Notton, B. Stott, P. Schoeb, A. Walsh, G. Leboucher, V. Espitalier, V. Apostolou, L.-F. Vigneux, A. Salavrakos, and J. Senellart. [MerLin: a discovery engine for photonic and hybrid quantum machine learning](https://arxiv.org/abs/2602.11092), *arXiv:2602.11092 [cs.LG]* (2026)
 
 C. Notton, V. Apostolou, A. Senellart, A. Walsh, D. Wang, Y. Xie, S. Yang, I. Mejdoub, O. Zouhry, K.-C. Chen, C.-Y. Liu, A. Sharma, E. Y. Balaji, S. P. Pawar, L. Le Frioux, V. Macheret, A. Radet, V. Deumier, A. K. Gupta, G. Intoccia, D. J. Kenne, C. Marullo, G. Massafra, N. Reinaldet, V. Schiano, D. Kolesnyk, Y. Vodovozova, R. Mezher, P.-E. Emeriau, A. Salavrakos, and J. Senellart. [Establishing Baselines for Photonic Quantum Machine Learning: Insights from an Open, Collaborative Initiative](https://arxiv.org/abs/2510.25839), *arXiv:2510.25839 [quant-ph]* (2025)
