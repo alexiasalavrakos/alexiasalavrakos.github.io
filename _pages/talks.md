@@ -9,8 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-## Conferences - talks and lectures
+## Conferences, talks, and lectures
 
+- **Guest lecture** for the *Applied Quantum Algorithms* course at Leiden University, Netherlands (11/05/2026)
 - **Invited talk** on "Full-stack photonic quantum computing". *Qiskit Fall Fest* in Madrid, Spain (03/11/2025)
 - **Contributed talk** on “An error-mitigated photonic quantum circuit Born machine”. *Quantum Matter conference* in Grenoble, France (20/05 - 23/05/2025)
 - **Lecture** on “Quantum machine learning on photonic platforms”. *Winter School on Quantum Machine Learning* in Trento, Italy (09/12 - 13/12/2024)
