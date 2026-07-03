@@ -14,7 +14,7 @@ redirect_from:
 
 J.C. López Carreño, S. Świerczewski, A. Opala, A. Salavrakos, B. Piętka, M. Matuszewski. [Quantum and classical processing with photonic quantum machine learning](https://arxiv.org/abs/2605.10471), *arXiv:2605.10471 [quant-ph]* (2026)
 
-F. Gottlieb, R. Mezher, B. Ventura, S. Mansfield, and A. Salavrakos. [Efficient training of photonic quantum generative models](https://arxiv.org/abs/2603.08793), *arXiv:2603.08793 [quant-ph]* (2026)
+F. Gottlieb, C. Faraji, R. Mezher, B. Ventura, S. Mansfield, and A. Salavrakos. [Efficient training of photonic quantum generative models](https://arxiv.org/abs/2603.08793), *arXiv:2603.08793 [quant-ph]* (2026)
 
 C. Notton, B. Stott, P. Schoeb, A. Walsh, G. Leboucher, V. Espitalier, V. Apostolou, L.-F. Vigneux, A. Salavrakos, and J. Senellart. [MerLin: a discovery engine for photonic and hybrid quantum machine learning](https://arxiv.org/abs/2602.11092), *arXiv:2602.11092 [cs.LG]* (2026)
 
