@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Conferences, talks, and lectures
-
+- **Contributed talk** and **Best Paper Award** on “MerLin: A Discovery Engine for Photonic and Hybrid Quantum Machine Learning”. *IEEE WCCI 2026 conference* in Maastricht, Netherlands (22/06 - 26/06/2026)
 - **Guest lecture** for the *Applied Quantum Algorithms* course at Leiden University, Netherlands (11/05/2026)
 - **Invited talk** on "Full-stack photonic quantum computing". *Qiskit Fall Fest* in Madrid, Spain (03/11/2025)
 - **Contributed talk** on “An error-mitigated photonic quantum circuit Born machine”. *Quantum Matter conference* in Grenoble, France (20/05 - 23/05/2025)
