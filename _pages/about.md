@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher currently working at the Institute of Cosmos Sciences at the University of Barcelona (ICCUB), with a Maria de Maeztu Unit of Excellence Fellowship. 
+I am a researcher currently working at the [Institute of Cosmos Sciences](https://icc.ub.edu) at the University of Barcelona (ICCUB), with a Maria de Maeztu Unit of Excellence Fellowship. 
 
 I obtained my PhD at [ICFO](https://www.icfo.eu/) in the group of Antonio Acín, on the topic of [Bell inequalities for device-independent protocols](https://upcommons.upc.edu/handle/2117/131434).
 
